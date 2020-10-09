@@ -10,3 +10,5 @@ HOW TO RUN
 
 Use any Android emulator such as NOX or Android Studios default emulator. The video shows me going through how I made it and what logic it follows. I created this on my own
 for a university Assignment
+
+I achieved 90% on this bit of coursework at 2nd year
