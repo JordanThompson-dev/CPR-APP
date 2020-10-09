@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">cprAPP</string>
+    <string name="page0">Check to see if theyre responsive</string>
+    <string name="page1">Call for the help and position victim</string>
+    <string name="page2">Are they bleeding heavily?</string>
+    <string name="page3">Apply pressure until you bandage the wound</string>
+    <string name="page4">Ensure wound is well bandanged and disinfect any open cuts</string>
+    <string name="page5">Has a body part been severed?</string>
+    <string name="page6">Place severed body part in plastic bag and put it somewhere cold</string>
+    <string name="page7">Ensure bag is with Patient for when he goes to the hospital</string>
+    <string name="page8">Open Airway</string>
+    <string name="page9">Determine Breathing</string>
+    <string name="page10">Maintain Open airway</string>
+    <string name="page11">Monitor</string>
+    <string name="page12">Still breathing?</string>
+    <string name="page13">Transport to Emergency Care Unit</string>
+    <string name="page14">Begin Rescue Breathing</string>
+    <string name="page15">Air Entering?</string>
+    <string name="page16">Reposition head and retattempt ventilation </string>
+    <string name="page17">Air Entering?</string>
+    <string name="page18">Heimlich Manuever, Finger sweep, Rescue breathing</string>
+    <string name="page19">Air Entering?</string>
+    <string name="page20">Heimlich Manuever, Finger sweep, Rescue breathing</string>
+    <string name="page21">Rescue Breathing 2 times</string>
+    <string name="page22">See if there is a pulse</string>
+    <string name="page23">Pulse Present?</string>
+    <string name="page24">Continue Rescue breathing every few seconds and monitor pulse</string>
+    <string name="page25">Pulse present?</string>
+    <string name="page26">Chest Compression and rescue breathing 15:2</string>
+    <string name="page27">Pulse and breathing checks after four cycles then every few minutes until pulse</string>
+    <string name="page28">Transport to Emergency care unit</string>
+    <string name="page29">You have finished the process</string>
+
+
+
+
+
+    <string name="page0_choice1">Next</string>
+    <string name="page0_choice2">Back</string>
+    <string name="pageAllChoice_1">Yes</string>
+    <string name="pageAllChoice_2">No</string>
+    <string name="page29_choice1">Restart</string>
+
+</resources>
